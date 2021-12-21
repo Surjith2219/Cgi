@@ -5,8 +5,13 @@ public class Cgi {
 	private void masterCode() {
 
 	}
-
-	private void codeB() {
+	
+	private void codeA() {
 
 	}
+
+	private void codeB() {
+	}
+
+	
 }
